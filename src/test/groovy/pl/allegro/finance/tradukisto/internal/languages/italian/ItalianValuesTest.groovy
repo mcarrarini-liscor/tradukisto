@@ -88,6 +88,7 @@ class ItalianValuesTest extends Specification {
         15000      | "quindicimila"
         21000      | "ventunomila"
         24190      | "ventiquattromilacentonovanta"
+        68000      | "sessantottomila"
         653000     | "seicentocinquantatremila"
         123454     | "centoventitremilaquattrocentocinquantaquattro"
         700000     | "settecentomila"
